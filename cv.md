@@ -1,9 +1,9 @@
 # The best CV in the world
 
-**Name: Dimitri HABRUK**
-*telegram: @dimitri_j*
-*phone, whatsapp etc...: +33 6 98 49 58 38*
-*email: d.habruk@gmail.com*
+**Name: Dimitri HABRUK**  
+*telegram: @dimitri_j*  
+*phone, whatsapp etc...: +33 6 98 49 58 38*  
+*email: d.habruk@gmail.com*  
 
 *__- Who am i?__* 
 >I am a future monopolist and a real altruist (=
@@ -40,6 +40,6 @@ Not working ? hm... Just wait when i'll finish my study :D
 |WordPress|1|
 |ShopiFy|1|
 
->English : B1
->French : B2
+>English : B1  
+>French : B2  
 >Russian : like a boss :) Native
