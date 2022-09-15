@@ -7,9 +7,9 @@
 *discord rs-school: TheNextLvLPlay (@Dimitri-Habruk)*  
 
 *__- Who am i?__* 
->I am a future monopolist and a real altruist (=
-> Hello! I live in Paris. But in few month I'm going to move to Canada *(Toronto or Montreal)*!
-I'm veeeery interested in programming :) So i said - i will become a **front-end developer** in Canada ! 
+>I am a future monopolist and a real altruist (=  
+> Hello! I live in Paris. But in few month I'm going to move to Canada *(Toronto or Montreal)*!  
+I'm veeeery interested in programming :) So i said - i will become a **front-end developer** in Canada !   
 By the way, i have a really good idea for start up - I just lack the knowledge to implement it! That's why you are reading this lines :)
 
 __-What about my career ?__
@@ -36,9 +36,9 @@ Error 404... not found
 Not working ? hm... Just wait when i'll finish my study :D
 ```
 #### Work experience - i've do a few sites for my clients : 
-| technology | project |
-| ------ | ------ |
-|WordPress|1|
+| technology | project |  
+| ------ | ------ |  
+|WordPress|1|  
 |ShopiFy|1|
 
 >English : B1  
