@@ -4,6 +4,7 @@
 *telegram: @dimitri_j*  
 *phone, whatsapp etc...: +33 6 98 49 58 38*  
 *email: d.habruk@gmail.com*  
+*discord rs-school: TheNextLvLPlay (@Dimitri-Habruk)*  
 
 *__- Who am i?__* 
 >I am a future monopolist and a real altruist (=
