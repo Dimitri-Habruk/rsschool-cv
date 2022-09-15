@@ -31,8 +31,8 @@ Loading completed !
 ```
 **2nd exemple :**
 ```sh
-*Error 404... not found*
-**Not working ? hm... Just wait when i'll finish my study :D**
+Error 404... not found
+Not working ? hm... Just wait when i'll finish my study :D
 ```
 #### Work experience - i've do a few sites for my clients : 
 | technology | project |
